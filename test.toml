@@ -21,3 +21,7 @@ part2 = "MCD"
 [day6]
 part1 = 7
 part2 = 19
+
+[day7]
+part1 = 95437
+part2 = 24933642
